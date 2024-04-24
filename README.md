@@ -25,5 +25,6 @@ The images were downloaded from three different URL and the dataset consists of 
 2. Knee images were downloaded from https://data.mendeley.com/datasets/t9ndx37v5h/1. 1124 images were randomly taken from the two directories.
 3. Shoulder images were downloaded from https://www.kaggle.com/dryari5/shoulder-xray-classification.The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Type A1, C1, D1 and Others). There are 841 Shoulder X-Ray images (PNG) and 4 categories (Type A1, C1, D1 and Others).
 
-## [Project 3: Data cleaning, preparation,EDA and initial analysis using Excel and R](https://github.com/Juweria-Ali/Data-Cleaning-Data-Merging-EDA-and-initial-analysis-using-R-on-Events-and-Weather-datasets)
+## [Project 3: Data cleaning, preparation,EDA and initial analysis on Events and Weather datasets using Excel and R](https://github.com/Juweria-Ali/Data-Cleaning-Data-Merging-EDA-and-initial-analysis-using-R-on-Events-and-Weather-datasets)
 Prepare and explore the datasets, perform data cleaning, data transformation and data exploration prior to performing learning tasks.
+This project was done a part of a module assessment and the datasets were given by the school.
