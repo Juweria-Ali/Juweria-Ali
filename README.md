@@ -21,5 +21,6 @@ Data Sources:
 3. Scottish Funding Council (SFC) Data
 4. Scottish Index of Multiple Deprivation (SIMD) Data
 
-Overview of the project as a poster:
+Overview of the project with figures is is published as poster in pdf format.
+The complete write up is available as a project report in pdf format.
 
