@@ -1,5 +1,6 @@
 # Data Science Portfolio 
-# [Building-a-dashboard-for-STEM-subject-entrants-in-Higher-Education-and-Further-Education](https://github.com/Juweria-Ali/Building-a-dashboard-for-STEM-subject-entrants-in-Higher-Education-and-Further-Education)
+
+## [Project 1: Building-a-dashboard-for-STEM-subject-entrants-in-Higher-Education-and-Further-Education](https://github.com/Juweria-Ali/Building-a-dashboard-for-STEM-subject-entrants-in-Higher-Education-and-Further-Education)
 
 This is a project I did as Data Intern for the University of Highlands and Islands as partof my Data Science Master's program.
 
