@@ -24,3 +24,10 @@ Data Sources:
 Overview of the project with figures is published as poster in pdf format.
 The complete write up is available as a project report in pdf format.
 
+## [Project 2: Classification of Medical X-ray images of different body parts using Python](https://github.com/Juweria-Ali/Machine-Learning-using-Python)
+
+Data Compilation
+The images were downloaded from three different URL and the dataset consists of 4331 x-ray images.
+Chest images were downloaded from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia. 2366 images were randomly taken from the two directories.
+Knee images were downloaded from https://data.mendeley.com/datasets/t9ndx37v5h/1. 1124 images were randomly taken from the two directories.
+Shoulder images were downloaded from https://www.kaggle.com/dryari5/shoulder-xray-classification. The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Type A1, C1, D1 and Others). There are 841 Shoulder X-Ray images (PNG) and 4 categories (Type A1, C1, D1 and Others).
