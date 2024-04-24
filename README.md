@@ -19,7 +19,7 @@ Data Sources:
 4. Scottish Index of Multiple Deprivation (SIMD) Data
 
 Overview of the project with figures is published as poster in pdf format.
-
+A powerpoint presentation is also prepared to present the findings.
 The complete write up is available as a project report in pdf format.
 
 ## [Project 2: Classification of Medical X-ray images of different body parts using Python](https://github.com/Juweria-Ali/Machine-Learning-using-Python)
