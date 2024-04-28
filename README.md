@@ -1,6 +1,6 @@
 # Data Science Portfolio 
 ## [Project 1: Building-a-dashboard-for-STEM-subject-entrants-in-Higher-Education-and-Further-Education](https://github.com/Juweria-Ali/Building-a-dashboard-for-STEM-subject-entrants-in-Higher-Education-and-Further-Education)
-This is a project I did as Data Intern for the University of Highlands and Islands as partof my Data Science Master's program.
+This is a project I did as a Data Intern for the University of Highlands and Islands as partof my Data Science Master's program.
 Aim:
 The purpose of this project phase is to design, implement, and evaluate a prototype self-service
 dashboard to help STEM providers in the Highlands and Islands STEM Partnership plan activities,
@@ -22,8 +22,9 @@ Overview of the project with figures is published as poster in pdf format.
 A powerpoint presentation is also prepared to present the findings.
 The complete write up is available as a project report in pdf format.
 
-## [Project 2: Classification of Medical X-ray images of different body parts using Python](https://github.com/Juweria-Ali/Machine-Learning-using-Python)
+## Projects 2 to 7 were carried out as part of assessments during my Data Science Master's program. 
 
+## [Project 2: Classification of Medical X-ray images of different body parts using Python](https://github.com/Juweria-Ali/Machine-Learning-using-Python)
 Data Compilation:
 
 The images were downloaded from three different URL and the dataset consists of 4331 x-ray images.
@@ -116,7 +117,6 @@ Stage 2B: Building a Content Based Recommender
 Stage 3: Building a Collaborative Filtering Recommender
 
 ## [Project 7: Research Projects](https://github.com/Juweria-Ali/Research-Projects)
-These are a couple of research projects carried out as a part of an assessment during my Data Science Master's program. 
 The projects were divided into two segments, where one was a solo project and the other was team project.
 ### 1. Comparing Machine Learning Models for Credit Card Fraud Detection: This was an individal project and the primary aim of the study was to identify classifiers with higher accuracy predictions for credit card fraud detection.
 ### 2. LESP issues in BYOD approach: This was team project to help develop collaborative working, presentation and soft skills.
