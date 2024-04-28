@@ -8,7 +8,7 @@ To design, implement, and evaluate a prototype self-service dashboard to help ST
 Objectives
 1. Investigate the availability & viability of data sources for inclusion in the visualisations.
 2. Review state of the art in data visualisation dashboards including available software tools.
-3. Create an efficient and usable data visualization.
+3. Create an efficient and usable data visualisation.
 4. Evaluate the effectiveness in terms of usability & accuracy.
 
 Data Sources:
