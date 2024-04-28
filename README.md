@@ -1,10 +1,9 @@
 # Data Science Portfolio 
 ## [Project 1: Building-a-dashboard-for-STEM-subject-entrants-in-Higher-Education-and-Further-Education](https://github.com/Juweria-Ali/Building-a-dashboard-for-STEM-subject-entrants-in-Higher-Education-and-Further-Education)
-This is a project I did as a Data Intern for the University of Highlands and Islands as partof my Data Science Master's program.
+This is a project I did as a Data Intern for the University of Highlands and Islands during my Data Science Master's program.
+
 Aim:
-The purpose of this project phase is to design, implement, and evaluate a prototype self-service
-dashboard to help STEM providers in the Highlands and Islands STEM Partnership plan activities,
-understand enrolments in STEM subject entrants at college and forecast future trends.
+To design, implement, and evaluate a prototype self-service dashboard to help STEM providers in the Highlands and Islands STEM Partnership plan activities,understand enrolments in STEM subject entrants at college and forecast future trends.
 
 Objectives
 1. Investigate the availability & viability of data sources for inclusion in the visualisations.
