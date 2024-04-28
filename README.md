@@ -118,7 +118,7 @@ Stage 3: Building a Collaborative Filtering Recommender
 ## [Project 7: Research Projects](https://github.com/Juweria-Ali/Research-Projects)
 The projects were divided into two segments, where one was a solo project and the other was team project.
 ### 1. Comparing Machine Learning Models for Credit Card Fraud Detection: This was an individal project and the primary aim of the study was to identify classifiers with higher accuracy predictions for credit card fraud detection.
-### 2. LESP issues in BYOD approach: This was team project to help develop collaborative working, presentation and soft skills.
+### 2. LESP issues in BYOD approach: This was a team project to help develop collaborative working, presentation and soft skills.
 
 ## [Project 8: Analysis of AirBnB data](https://github.com/Juweria-Ali/Analysis-of-AirBnB-data)
 
