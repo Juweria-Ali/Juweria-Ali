@@ -121,4 +121,6 @@ The projects were divided into two segments, where one was a solo project and th
 ### 2. LESP issues in BYOD approach: This was team project to help develop collaborative working, presentation and soft skills.
 
 ## [Project 8: Analysis of AirBnB data](https://github.com/Juweria-Ali/Analysis-of-AirBnB-data)
-This was part of a personal project.The work contains transformations and my interpretation of the data. To clarify the steps taken, a PowerPoint presentation has been put together separately.
+
+ This was part of a personal project.The work contains transformations and my interpretation of the data. To clarify the steps taken, a PowerPoint presentation has been put 
+ together separately.
