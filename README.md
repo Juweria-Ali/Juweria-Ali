@@ -21,9 +21,12 @@ Overview of the project with figures is published as poster in pdf format.
 A powerpoint presentation is also prepared to present the findings.
 The complete write up is available as a project report in pdf format.
 
-## [Project 2: Data Modelling(Power Query),ETL and Analysis ](https://github.com/Juweria-Ali/Machine-Learning-using-Python)
-
-
+## [Project 2: In Memory Data Modelling ETL and Analyis VS Data Modelling , ETL and Analyis using SSIS and SSAS ](In-memory-versus-SSIS-and-SSAS---Data-Modelling-ETL-and-Analysis-)
+This project assesses to:
+1. Identify and explain the main concepts and key components of a data warehouse.
+2. Describe, analyse and apply a methodology for designing a data warehouse.
+3. Explain and analyse the key techniques of data warehousing applications and OLAP.
+4. Design, implement and evaluate a data warehousing application.
 
 ## [Project 3: Classification of Medical X-ray images of different body parts using Python](https://github.com/Juweria-Ali/Machine-Learning-using-Python)
 Data Compilation:
