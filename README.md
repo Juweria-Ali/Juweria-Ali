@@ -21,9 +21,11 @@ Overview of the project with figures is published as poster in pdf format.
 A powerpoint presentation is also prepared to present the findings.
 The complete write up is available as a project report in pdf format.
 
-## Projects 2 to 7 were carried out as part of assessments during my Data Science Master's program. 
+## [Project 2: Data Modelling(Power Query),ETL and Analysis ](https://github.com/Juweria-Ali/Machine-Learning-using-Python)
 
-## [Project 2: Classification of Medical X-ray images of different body parts using Python](https://github.com/Juweria-Ali/Machine-Learning-using-Python)
+
+
+## [Project 3: Classification of Medical X-ray images of different body parts using Python](https://github.com/Juweria-Ali/Machine-Learning-using-Python)
 Data Compilation:
 
 The images were downloaded from three different URL and the dataset consists of 4331 x-ray images.
@@ -31,12 +33,12 @@ The images were downloaded from three different URL and the dataset consists of 
 2. Knee images were downloaded from https://data.mendeley.com/datasets/t9ndx37v5h/1. 1124 images were randomly taken from the two directories.
 3. Shoulder images were downloaded from https://www.kaggle.com/dryari5/shoulder-xray-classification.The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Type A1, C1, D1 and Others). There are 841 Shoulder X-Ray images (PNG) and 4 categories (Type A1, C1, D1 and Others).
 
-## [Project 3: Data cleaning, preparation,EDA and initial analysis on Events and Weather datasets using Excel and R](https://github.com/Juweria-Ali/Data-Cleaning-Data-Merging-EDA-and-initial-analysis-using-R-on-Events-and-Weather-datasets)
+## [Project 4: Data cleaning, preparation,EDA and initial analysis on Events and Weather datasets using Excel and R](https://github.com/Juweria-Ali/Data-Cleaning-Data-Merging-EDA-and-initial-analysis-using-R-on-Events-and-Weather-datasets)
 
 Prepare and explore the datasets, perform data cleaning, data transformation and data exploration prior to performing learning tasks.
 This project was done a part of a module assessment and the datasets were given by the school.
 
-## [Project 4: Statistical Analysis and Visualisations on Transactions data](https://github.com/Juweria-Ali/Statistical-Analysis-and-Visualisations-related-to-Transactions-dataset)
+## [Project 5: Statistical Analysis and Visualisations on Transactions data](https://github.com/Juweria-Ali/Statistical-Analysis-and-Visualisations-related-to-Transactions-dataset)
 
 transactions.csv contains synthetic data relating to a hypothetical research analysis on a set of online banking transactions. The dataset has 600 instances (rows) and 8 attributes (columns).
 
@@ -58,7 +60,7 @@ model2: model2 is a numerical variable on the scale 0-100 representing the accur
 
 The purpose of the study for which the data has been gathered is to evaluate the effectiveness of the new algorithm, whose accuracies are given by variable model2, relative to the performance of the benchmark algorithm, whose accuracies are given by variable model1.
 
-## [Project 5(Part1): Data cleaning,merging, EDA and initial analysis on fish farms data using R](https://github.com/Juweria-Ali/Part-1-Data-Cleaning-Data-Merging-EDA-and-initial-analysis-using-R)
+## [Project 6(Part1): Data cleaning,merging, EDA and initial analysis on fish farms data using R](https://github.com/Juweria-Ali/Part-1-Data-Cleaning-Data-Merging-EDA-and-initial-analysis-using-R)
 
 Aquaculture (fish farms) are an important part of the Scottish economy. Fish are grown in large cages, either in the sea or in lakes. The industry involves the use of animals and has an impact on the environment, so there is an increased focus in monitoring the fish farms, and keeping records of any incidents there may be.
 
@@ -77,7 +79,7 @@ The following tasks were carried out in R:
 3. Additional exploratory data analysis of the dataset, highlighting any interesting information. Note that data exploration may involve the application of statistical functions and/or the use of visualisations. Preparing this new dataset for learning.
 4. ONE other learning task that is different from tasks 1-3 and, ideally, it complements the work undertaken in previous tasks.
 
-## [Project 5(Part2): Model fitting, evaluation and deployment using R](https://github.com/Juweria-Ali/Part-2-Model-fitting-Model-Evaluation-Model-Deployment)
+## [Project 6(Part2): Model fitting, evaluation and deployment using R](https://github.com/Juweria-Ali/Part-2-Model-fitting-Model-Evaluation-Model-Deployment)
 
 Dataset has similar theme and context to that from Part 1 • but is cleaned and complete • has some renamed columns • has some additional columns
 
@@ -89,7 +91,7 @@ Five tasks were carried out
 4. Fit another regression model of your choice to predict Number
 5. Deploy one model as part of a basic Shiny app to predict Cause
 
-## [Project 6: Information Retrieval Systems using Rapid Miner tool](https://github.com/Juweria-Ali/Information-Retireval-Sytems---Rapid-Miner)
+## [Project 7: Information Retrieval Systems using Rapid Miner tool](https://github.com/Juweria-Ali/Information-Retireval-Sytems---Rapid-Miner)
 
 ### Part 1 Retrieval Eavluation
 
@@ -115,12 +117,12 @@ Stage 2B: Building a Content Based Recommender
 
 Stage 3: Building a Collaborative Filtering Recommender
 
-## [Project 7: Research Projects](https://github.com/Juweria-Ali/Research-Projects)
+## [Project 8: Research Projects](https://github.com/Juweria-Ali/Research-Projects)
 The projects were divided into two segments, where one was a solo project and the other was team project.
 ### 1. Comparing Machine Learning Models for Credit Card Fraud Detection: This was an individal project and the primary aim of the study was to identify classifiers with higher accuracy predictions for credit card fraud detection.
 ### 2. LESP issues in BYOD approach: This was a team project to help develop collaborative working, presentation and soft skills.
 
-## [Project 8: Analysis of AirBnB data](https://github.com/Juweria-Ali/Analysis-of-AirBnB-data)
+## [Project 9: Analysis of AirBnB data](https://github.com/Juweria-Ali/Analysis-of-AirBnB-data)
 
  This was part of a personal project.The work contains transformations and my interpretation of the data. To clarify the steps taken, a PowerPoint presentation has been put 
  together separately.
