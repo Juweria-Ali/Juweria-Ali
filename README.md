@@ -63,8 +63,9 @@ model2: model2 is a numerical variable on the scale 0-100 representing the accur
 
 The purpose of the study for which the data has been gathered is to evaluate the effectiveness of the new algorithm, whose accuracies are given by variable model2, relative to the performance of the benchmark algorithm, whose accuracies are given by variable model1.
 
-## [Project 6(Part1): Data cleaning,merging, EDA and initial analysis on fish farms data using R](https://github.com/Juweria-Ali/Part-1-Data-Cleaning-Data-Merging-EDA-and-initial-analysis-using-R)
+## [Project 6: Fish farms data analysis using R](https://github.com/Juweria-Ali/Aquaculture-data-analysis)
 
+### Part 1
 Aquaculture (fish farms) are an important part of the Scottish economy. Fish are grown in large cages, either in the sea or in lakes. The industry involves the use of animals and has an impact on the environment, so there is an increased focus in monitoring the fish farms, and keeping records of any incidents there may be.
 
 The two datasets used were: • escapes.csv: contains records of fish escapes, i.e. incidents where some of the fish in the cages have escaped into the wild. This is undesirable and is reported. • analysis.csv: the results of water analysis using a number of components. This file has been selected to contain records which somehow align with some of the escapes data.
@@ -82,7 +83,7 @@ The following tasks were carried out in R:
 3. Additional exploratory data analysis of the dataset, highlighting any interesting information. Note that data exploration may involve the application of statistical functions and/or the use of visualisations. Preparing this new dataset for learning.
 4. ONE other learning task that is different from tasks 1-3 and, ideally, it complements the work undertaken in previous tasks.
 
-## [Project 6(Part2): Model fitting, evaluation and deployment using R](https://github.com/Juweria-Ali/Part-2-Model-fitting-Model-Evaluation-Model-Deployment)
+### Part2: Model fitting, evaluation and deployment using R
 
 Dataset has similar theme and context to that from Part 1 • but is cleaned and complete • has some renamed columns • has some additional columns
 
