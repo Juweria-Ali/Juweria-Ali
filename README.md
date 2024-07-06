@@ -21,7 +21,7 @@ Overview of the project with figures is published as poster in pdf format.
 A powerpoint presentation is also prepared to present the findings.
 The complete write up is available as a project report in pdf format.
 
-## [Project 2: In Memory Data Modelling ETL and Analyis VS Data Modelling , ETL and Analyis using SSIS and SSAS ](In-memory-versus-SSIS-and-SSAS---Data-Modelling-ETL-and-Analysis-)
+## [Project 2: In Memory Data Modelling ETL and Analyis VS Data Modelling , ETL and Analyis using SSIS and SSAS ](https://github.com/Juweria-Ali/In-memory-versus-SSIS-and-SSAS---Data-Modelling-ETL-and-Analysis-)                 
 This project assesses to:
 1. Identify and explain the main concepts and key components of a data warehouse.
 2. Describe, analyse and apply a methodology for designing a data warehouse.
@@ -63,7 +63,7 @@ model2: model2 is a numerical variable on the scale 0-100 representing the accur
 
 The purpose of the study for which the data has been gathered is to evaluate the effectiveness of the new algorithm, whose accuracies are given by variable model2, relative to the performance of the benchmark algorithm, whose accuracies are given by variable model1.
 
-## [Project 6: Fish farms data analysis using R](https://github.com/Juweria-Ali/Aquaculture-data-analysis)
+## [Project 6: Fish farms data analysis using R](https://github.com/Juweria-Ali/Fish-farms-data-analysis)
 
 ### Part1: Data cleaning,merging, EDA and initial analysis on fish farms data using R
 
