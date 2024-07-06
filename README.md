@@ -65,7 +65,7 @@ The purpose of the study for which the data has been gathered is to evaluate the
 
 ## [Project 6: Fish farms data analysis using R](https://github.com/Juweria-Ali/Aquaculture-data-analysis)
 
-### Part 1
+### Part 1: Data cleaning,merging, EDA and initial analysis on fish farms data using R
 Aquaculture (fish farms) are an important part of the Scottish economy. Fish are grown in large cages, either in the sea or in lakes. The industry involves the use of animals and has an impact on the environment, so there is an increased focus in monitoring the fish farms, and keeping records of any incidents there may be.
 
 The two datasets used were: • escapes.csv: contains records of fish escapes, i.e. incidents where some of the fish in the cages have escaped into the wild. This is undesirable and is reported. • analysis.csv: the results of water analysis using a number of components. This file has been selected to contain records which somehow align with some of the escapes data.
